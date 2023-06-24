@@ -19,11 +19,7 @@ Version 1.0 (June 2023)
 5. Run the CarManagementSystem.java file to start the application.
 
 ## Authors:
-This project was developed by:
-
-- [Author 1]
-- [Author 2]
-- [Author 3]
+This project was developed by m4ndil.
 
 ## User Instructions:
 1. Launch the Car Management System application.
@@ -53,4 +49,4 @@ Additional Information:
 - If you encounter any issues or errors, please refer to the documentation or contact the authors for support.
 
 ## License:
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed as free and can be used by giving the credits.
