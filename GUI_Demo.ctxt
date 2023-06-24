@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GUI_Demo
+comment1.params=
+comment1.target=GUI_Demo()
+comment10.params=klar
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createRegistrationForm()
+comment3.params=fAdd
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=eAdd
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=fPur
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=eBuy
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=eSell
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=fDis
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=eDis
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=12
