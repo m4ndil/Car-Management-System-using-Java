@@ -5,7 +5,8 @@ This is the project README file.
 Car Management System
 
 ## Purpose of Project:
-The purpose of this project is to provide a user-friendly graphical interface for managing fuel and electric cars. It allows users to add new cars, purchase and sell cars, and display car information easily.
+The purpose of this project is to provide a user-friendly graphical interface for managing fuel and electric cars.
+It allows users to add new cars, purchase and sell cars, and display car information easily.
 
 ## Version or Date:
 Version 1.0 (June 2023)
